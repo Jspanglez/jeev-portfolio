@@ -55,3 +55,11 @@
   font-size: 18px;
   line-height: 1.75rem;
 }
+
+.skill {
+  background-color: rgb(224, 231, 255);
+  color: rgb(55 48 163);
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
