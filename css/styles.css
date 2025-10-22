@@ -11,8 +11,9 @@
   background-color: #9eb2cf;
 }
 
-#about {
+#profileContainer {
   background-color: rgba(0, 0, 0, 0.5);
+  color: white !important;
 }
 
 #pfp {
@@ -32,11 +33,6 @@
   margin-bottom: 2rem;
 }
 
-p {
-  font-size: 1.5rem;
-  color: white !important;
-}
-
 .my-btn {
   padding: 0.5rem 1rem;
   background-color: #4f46e5;
@@ -49,4 +45,13 @@ p {
 
 #name {
   color: #818cf8;
+}
+
+#aboutContainer {
+  max-width: 896px;
+}
+
+.paragraphs {
+  font-size: 18px;
+  line-height: 1.75rem;
 }
