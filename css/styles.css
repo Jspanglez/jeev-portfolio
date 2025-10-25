@@ -63,3 +63,14 @@
   font-size: 0.875rem;
   line-height: 1.25rem;
 }
+.btn-indigo {
+  background-color: #4f46e5;
+  border-color: #4f46e5;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-indigo:hover {
+  background-color: #4338ca;
+  border-color: #4338ca;
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.15);
+}
